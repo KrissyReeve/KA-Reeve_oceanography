@@ -28,14 +28,14 @@ author:
   pronouns         : "she/her"  
   bio              : "Physical Oceanographer"
   location         : "Bremerhaven, Germany"
-  employer         : "Alfred Wegener Institute for Polar and Marine Sciences"
+  employer         : "Alfred Wegener Institute"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=xXchraMAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
